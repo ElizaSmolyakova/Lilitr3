@@ -1,0 +1,5 @@
+com\lilitr\model\User.class
+com\lilitr\App.class
+com\lilitr\model\Participants.class
+com\lilitr\model\Content.class
+com\lilitr\model\Event.class
